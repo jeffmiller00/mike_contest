@@ -5,3 +5,24 @@
 .yellow, #stats h2 {
   color: #f9da4f;
 }
+
+.win {
+  background: #119822;
+  color: #0E0E0E;
+}
+
+.push {
+  background: rgba(17,152,34,0.5);
+  color: #0E0E0E;
+}
+
+.loss {
+  background: #ED254D;
+  color: #0E0E0E;
+}
+
+.bonus {
+  border-width: 1em;
+  border-color: #01BAEF;
+  border-style: groove;
+}
